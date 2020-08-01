@@ -1,6 +1,6 @@
 # The Guardian Project
 
-Fictional setting world-building
+Fictional setting and world-building
 
 # What is this?
 
